@@ -1,0 +1,1 @@
+cmd='/usr/bin/cmake.exe;-DCMAKE_INSTALL_PREFIX=/usr/local;-GNinja;<SOURCE_DIR><SOURCE_SUBDIR>'

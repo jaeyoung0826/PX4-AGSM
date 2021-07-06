@@ -1,0 +1,43 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/cygdrive/c/PX4/home/Firmware/build/px4_sitl_default/platforms/posix/CMakeFiles/jsbsim_bridge"
+		},
+		{
+			"file" : "/cygdrive/c/PX4/home/Firmware/build/px4_sitl_default/platforms/posix/CMakeFiles/jsbsim_bridge.rule"
+		},
+		{
+			"file" : "/cygdrive/c/PX4/home/Firmware/build/px4_sitl_default/platforms/posix/CMakeFiles/jsbsim_bridge-complete.rule"
+		},
+		{
+			"file" : "/cygdrive/c/PX4/home/Firmware/build/px4_sitl_default/external/Stamp/jsbsim_bridge/jsbsim_bridge-install.rule"
+		},
+		{
+			"file" : "/cygdrive/c/PX4/home/Firmware/build/px4_sitl_default/external/Stamp/jsbsim_bridge/jsbsim_bridge-mkdir.rule"
+		},
+		{
+			"file" : "/cygdrive/c/PX4/home/Firmware/build/px4_sitl_default/external/Stamp/jsbsim_bridge/jsbsim_bridge-download.rule"
+		},
+		{
+			"file" : "/cygdrive/c/PX4/home/Firmware/build/px4_sitl_default/external/Stamp/jsbsim_bridge/jsbsim_bridge-update.rule"
+		},
+		{
+			"file" : "/cygdrive/c/PX4/home/Firmware/build/px4_sitl_default/external/Stamp/jsbsim_bridge/jsbsim_bridge-patch.rule"
+		},
+		{
+			"file" : "/cygdrive/c/PX4/home/Firmware/build/px4_sitl_default/external/Stamp/jsbsim_bridge/jsbsim_bridge-configure.rule"
+		},
+		{
+			"file" : "/cygdrive/c/PX4/home/Firmware/build/px4_sitl_default/external/Stamp/jsbsim_bridge/jsbsim_bridge-build.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"jsbsim_bridge"
+		],
+		"name" : "jsbsim_bridge"
+	}
+}

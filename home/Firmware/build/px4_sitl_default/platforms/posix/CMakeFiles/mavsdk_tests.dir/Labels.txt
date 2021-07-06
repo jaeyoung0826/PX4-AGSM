@@ -1,0 +1,13 @@
+# Target labels
+ mavsdk_tests
+# Source files and their labels
+/cygdrive/c/PX4/home/Firmware/build/px4_sitl_default/platforms/posix/CMakeFiles/mavsdk_tests
+/cygdrive/c/PX4/home/Firmware/build/px4_sitl_default/platforms/posix/CMakeFiles/mavsdk_tests.rule
+/cygdrive/c/PX4/home/Firmware/build/px4_sitl_default/platforms/posix/CMakeFiles/mavsdk_tests-complete.rule
+/cygdrive/c/PX4/home/Firmware/build/px4_sitl_default/external/Stamp/mavsdk_tests/mavsdk_tests-install.rule
+/cygdrive/c/PX4/home/Firmware/build/px4_sitl_default/external/Stamp/mavsdk_tests/mavsdk_tests-mkdir.rule
+/cygdrive/c/PX4/home/Firmware/build/px4_sitl_default/external/Stamp/mavsdk_tests/mavsdk_tests-download.rule
+/cygdrive/c/PX4/home/Firmware/build/px4_sitl_default/external/Stamp/mavsdk_tests/mavsdk_tests-update.rule
+/cygdrive/c/PX4/home/Firmware/build/px4_sitl_default/external/Stamp/mavsdk_tests/mavsdk_tests-patch.rule
+/cygdrive/c/PX4/home/Firmware/build/px4_sitl_default/external/Stamp/mavsdk_tests/mavsdk_tests-configure.rule
+/cygdrive/c/PX4/home/Firmware/build/px4_sitl_default/external/Stamp/mavsdk_tests/mavsdk_tests-build.rule

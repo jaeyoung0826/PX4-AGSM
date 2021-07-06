@@ -1,0 +1,13 @@
+# Target labels
+ flightgear_bridge
+# Source files and their labels
+/cygdrive/c/PX4/home/Firmware/build/px4_sitl_default/platforms/posix/CMakeFiles/flightgear_bridge
+/cygdrive/c/PX4/home/Firmware/build/px4_sitl_default/platforms/posix/CMakeFiles/flightgear_bridge.rule
+/cygdrive/c/PX4/home/Firmware/build/px4_sitl_default/platforms/posix/CMakeFiles/flightgear_bridge-complete.rule
+/cygdrive/c/PX4/home/Firmware/build/px4_sitl_default/external/Stamp/flightgear_bridge/flightgear_bridge-install.rule
+/cygdrive/c/PX4/home/Firmware/build/px4_sitl_default/external/Stamp/flightgear_bridge/flightgear_bridge-mkdir.rule
+/cygdrive/c/PX4/home/Firmware/build/px4_sitl_default/external/Stamp/flightgear_bridge/flightgear_bridge-download.rule
+/cygdrive/c/PX4/home/Firmware/build/px4_sitl_default/external/Stamp/flightgear_bridge/flightgear_bridge-update.rule
+/cygdrive/c/PX4/home/Firmware/build/px4_sitl_default/external/Stamp/flightgear_bridge/flightgear_bridge-patch.rule
+/cygdrive/c/PX4/home/Firmware/build/px4_sitl_default/external/Stamp/flightgear_bridge/flightgear_bridge-configure.rule
+/cygdrive/c/PX4/home/Firmware/build/px4_sitl_default/external/Stamp/flightgear_bridge/flightgear_bridge-build.rule
