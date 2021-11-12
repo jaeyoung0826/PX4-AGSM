@@ -40,13 +40,13 @@ $ ./QGroundControl.AppImage
 
 # GPS-Spoofing Demo image (영상은 발표자료 참고)
 
-![GPS-Spoofing](/uploads/3a686c20d33071d578fd4689515f5f87/GPS-Spoofing.png)
+![GPS-Spoofing](https://user-images.githubusercontent.com/63827432/141422354-e12bc470-2751-417e-8079-d44202992584.png)
+
 
 
 # AGSM 제작 이론
 
-
-![기울기그림](/uploads/ae587ae1ba0872102fc9224d38d0c9da/기울기그림.png)
+![기울기그림](https://user-images.githubusercontent.com/63827432/141422588-2e2a7a9d-d632-43a0-aa92-11ce705d77dd.png)
 
 1. 파란색의 두 점을 각각 waypoint1, waypoint2 라고 하였을 때, 두 waypoint를 통하여 기울기를 계산할 수 있다. 
 2. 계산된 기울기를 통하여 그림과 같이 오차범위에 해당되는 기울기 2개를 추가로 생성한다. 
@@ -145,7 +145,8 @@ void EKF2::check_inclination(double check) // get current inclination from calcu
 
 # AGSM을 이용한 GPS-SPoofing 탐지 (영상은 발표자료 참고)
 
-![AGSM](/uploads/31223259dd1646173809a2a0e9a98094/AGSM.png)
+![AGSM](https://user-images.githubusercontent.com/63827432/141422613-0f82fbab-c4c8-4bb9-a96c-21d328ec19ee.png)
+
 
 
 # Reference
